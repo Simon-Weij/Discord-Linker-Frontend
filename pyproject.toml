@@ -3,7 +3,6 @@ name = "discord-linker-frontend"
 version = "0.1.0"
 description = ""
 
-readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "discord-py (>=2.6.4,<3.0.0)",
